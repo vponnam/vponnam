@@ -9,7 +9,7 @@ In my earlier roles, I have led cross-functional teams, managed large-scale proj
 - 🌐 **Current Role**: Customer Success, GTM at Google.
 - 🎓 **Education**: MBA @ Kellogg School of Management.
 - 💼 **Experience**: Extensive background in software/systems engineering and cloud solutions
-- 💡 **Focus Areas**: Business transformation, GMT & Product Management, strategic leadership, cloud services, and solutions architecture.
+- 💡 **Focus Areas**: Business transformation, Customer Partnership, GMT & Product Management, Strategic leadership, Cloud services, and Trusted advisor.
 - 💰 **Investor**: Passionate about making smarter financial decisions with a strong, measurable ROI. Time value of assets and services is critical to me!
 
 ## What I Do
