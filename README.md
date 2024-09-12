@@ -51,9 +51,6 @@ coreValues = map[string]string{
 
 ## Public Presence
 A quick preview of some of my public contributions, including Open Source Software community.
-- Blogs/Solutions: [#1](https://cloud.google.com/blog/products/networking/managing-network-connectivity-through-categorized-vpcs), [#2](https://medium.com/google-cloud/programmatic-dns-record-management-for-google-cloud-vms-9dc07972131c), [#3](https://cloud.google.com/resource-manager/docs/organization-policy/develop-apps-constrained-environment), [#4](https://cloud.google.com/blog/products/infrastructure-modernization/multi-folder-infrastructure-as-code-optimization)
-- Solution reviews: [#5](https://cloud.google.com/architecture/architecture-centralized-network-appliances-on-google-cloud)
-- OSS code: [#6](https://github.com/terraform-google-modules/terraform-google-project-factory/pulls?q=is%3Apr+author%3A%40me+is%3Aclosed), [#7](https://github.com/terraform-google-modules/terraform-google-sql-db/pulls?q=is%3Apr+author%3A%40me+is%3Aclosed)
 
 ### Blogs/Articles
 - [Developer-friendly network design reference](https://cloud.google.com/blog/products/networking/managing-network-connectivity-through-categorized-vpcs?e=48754805)
